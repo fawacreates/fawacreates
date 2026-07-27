@@ -176,7 +176,7 @@ Exercise in semantic markup, responsive breakpoints and clear visual hierarchy.
 ## Experience
 
 **Web Development Intern**  
-Company Name  
+Edify Institude Of Computers 
 27 January 2026 – 5 March 2026
 
 - Foundation in modern web development practices
