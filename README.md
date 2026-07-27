@@ -1,37 +1,39 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=F2789F&section=header" width="600%" alt="header banner" />
-  <h1>Syeda Umme Farwa</h1>
-  <p><b>Aerospace & Space-Tech · Full-Stack Developer</b></p>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=D8567F&center=true&vCenter=true&width=580&lines=Building+for+Aerospace+%26+Space-Tech;Python+%7C+C+%7C+C%2B%2B+%7C+Embedded;Drone+%26+Satellite+Track;Open+to+Internships" alt="typing" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=200&section=header&text=Syeda%20Umme%20Farwa&fontSize=48&fontColor=F2789F&fontAlignY=45" width="100%" alt="header" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Education-CS%20Undergraduate-F2789F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-India-9770D1?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=fawacreates&style=for-the-badge&color=F2789F" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=F2789F&center=true&vCenter=true&width=580&lines=Aerospace%20%26%20Space-Tech%20%7C%20Full-Stack;Python%20%7C%20C%20%7C%20C%2B%2B%20%7C%20Embedded;Drone%20%26%20Satellite%20Track;Open%20to%20Internships" alt="typing" />
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://agent-6a5cac72d91a5636e--spontaneous-yeot-9362fe.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-D8567F?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/farwa-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:farwa.creates@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/fawacreates"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Education-CS%20Undergraduate-F2789F?style=for-the-badge&labelColor=1A1A1A" />
+  <img src="https://img.shields.io/badge/Location-India-D8567F?style=for-the-badge&labelColor=1A1A1A" />
+  <img src="https://komarev.com/ghpvc/?username=fawacreates&style=for-the-badge&color=F2789F&labelColor=1A1A1A" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://agent-6a5cac72d91a5636e--spontaneous-yeot-9362fe.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-F2789F?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1A1A1A" /></a>
+  <a href="https://www.linkedin.com/in/farwa-cs"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1A1A" /></a>
+  <a href="mailto:farwa.creates@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" /></a>
+  <a href="https://github.com/fawacreates"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" /></a>
 </div>
 
 ---
 
 ## About
 
-Computer science student preparing for aerospace and space-tech internships through a structured 90-day mission. Dual focus on drone / UAV systems and satellite / geospatial technologies.
+Computer science student on a structured 90-day mission targeting aerospace and space-tech internships. Dual-track focus: **drone / UAV systems** and **satellite / geospatial technologies**.
 
-Building foundations in Python, C/C++, embedded systems, flight stacks (PX4, ArduPilot), ROS2, computer vision, remote sensing and orbital mechanics. Weekdays = one focused 2-hour block. Weekends = longer integration and hardware sessions.
+Currently building deep foundations in Python, C/C++, embedded systems, PX4, ArduPilot, MAVLink, ROS2, computer vision, remote sensing and orbital mechanics.
 
-Primary goal: consistent public GitHub history and strong portfolio projects. Weeks 9–10 are protected for the flagship software and hardware deliverables.
+Weekdays are locked to one focused 2-hour block. Weekends are reserved for simulation, wiring and integration. Consistency in public GitHub history and strong portfolio projects are non-negotiable.
 
 ---
 
@@ -127,7 +129,7 @@ Computer graphics project implementing the Rubber Band Method with real-time int
 | Impact       | Demonstrates interactive graphics algorithms                         |
 | Repository   | [github.com/fawacreates/interactive-rubberband-dynamic-graphics](https://github.com/fawacreates/interactive-rubberband-dynamic-graphics) |
 
-Classic rubber-band techniques for dynamic shape creation and live constraint feedback using precise event handling and canvas rendering.
+Classic rubber-band techniques for dynamic shape creation and live constraint feedback.
 
 </details>
 
@@ -146,7 +148,7 @@ Personal creative portfolio and experimental web experiences.
 | Impact       | Design experimentation and personal brand                            |
 | Repository   | [github.com/fawacreates/farwa-creates-magic](https://github.com/fawacreates/farwa-creates-magic) |
 
-Collection of visual and interactive experiments that showcase design sensibility together with frontend engineering.
+Collection of visual and interactive experiments showcasing design sensibility with frontend engineering.
 
 </details>
 
@@ -194,7 +196,7 @@ Company Name
 ## Coding Profiles
 
 <div align="center">
-  <a href="https://leetcode.com/u/fawacreates/"><img src="https://img.shields.io/badge/LeetCode-fawacreates-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/fawacreates/"><img src="https://img.shields.io/badge/LeetCode-fawacreates-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1A1A1A" /></a>
 </div>
 
 ---
@@ -202,42 +204,26 @@ Company Name
 ## Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawacreates&bg_color=FDF2F6&color=D8567F&line=F2789F&point=9770D1&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fawacreates&bg_color=0D0D0D&color=F2789F&line=D8567F&point=9770D1&area=true&hide_border=true&area_color=F2789F" width="100%" alt="Contribution Activity" />
 </div>
 
 ---
 
-## Contribution Snake
+## Contribution Streak
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fawacreates/fawacreates/output/github-contribution-grid-snake.svg" alt="Snake Contribution" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawacreates&theme=dark&hide_border=true&background=0D0D0D&ring=F2789F&fire=D8567F&currStreakNum=F2789F&sideNums=D8567F&currStreakLabel=F2789F&sideLabels=9A6B82&dates=C398AF" alt="Contribution Streak" />
+</div>
+
+---
+## Contribution Rocket
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fawacreates/fawacreates/output/git-invader-pink-dark.svg" width="100%" alt="Contribution Rocket" />
 </div>
 
 ---
 
-## Current Focus
-
-```yaml
-Learning:
-  - Python, C/C++, Git, Linux
-  - Arduino, IMU, GPS, serial protocols
-  - PX4 / ArduPilot SITL + MAVLink
-  - ROS2 (nodes, topics, services)
-  - OpenCV + YOLOv8 for aerial imagery
-  - QGIS, rasterio, GDAL, Sentinel-2
-  - Orbital mechanics (TLE, SGP4)
-
-Building:
-  - 90-day aerospace prep mission log (active)
-  - Software flagship (NDVI / telemetry dashboard)
-  - Hardware flagship (sensor telemetry payload)
-
-Exploring:
-  - Drone / UAV systems track
-  - Satellite / Geospatial track
-  - Flight stack simulation & ground control
-  - Remote sensing classification & NDVI mapping
-  - Satellite pass prediction
 ## Current Focus
 
 ```yaml
