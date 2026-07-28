@@ -210,9 +210,8 @@ Edify Institude Of Computers
 ---
 
 ## Contribution Streak
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fawacreates&theme=dark&hide_border=true&background=0D0D0D&ring=F2789F&fire=D8567F&currStreakNum=F2789F&sideNums=D8567F&currStreakLabel=F2789F&sideLabels=9A6B82&dates=C398AF" alt="Contribution Streak" />
+  <img src="./assets/streak.svg" alt="Contribution Streak" />
 </div>
 
 ---
